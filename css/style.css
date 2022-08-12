@@ -1,0 +1,38 @@
+#bd{
+    color:blue;
+    text-decoration: underline;
+}
+.red{
+    color:red;
+    font-size: 40px;
+}
+
+#image{
+    border-radius: 50px;
+}
+span{
+    color: blueviolet;
+    font-size: 80px;
+}
+.styling{
+    font-size:40px;
+    color:palevioletred;
+    text-align:justify;
+    font-family:'Heebo', sans-serif;
+    line-height: 60px;
+    letter-spacing: 5px;
+    word-spacing: 5px;
+
+}
+a{
+    font-size:20px;
+    color:white;
+    background-color: palevioletred;
+    display: block;
+    width: 150px;
+    height: 40px;
+    text-decoration: none;
+    text-align: center;
+    line-height: 40px;
+    border-radius: 50px;
+}
